@@ -1,6 +1,6 @@
 # hardware-adapter
 
-Pluggable JSON heartbeat schemas for any board — auto-generates vessel.json safety profile
+Universal hardware adapter — any board, any sensor, one schema
 
 Part of the [Cocapn fleet](https://github.com/Lucineer/the-fleet).
 
